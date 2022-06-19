@@ -1,4 +1,4 @@
-# Home Credit Default Risk
+# Home Credit Default Risk - Kaggle Competition 
 
 ## Group members
 Varsha Ravi Varma - varavi@iu.edu
